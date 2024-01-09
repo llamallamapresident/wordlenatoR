@@ -1,0 +1,26 @@
+{
+    "id": "EF4A5334",
+    "path": "~/wordle/wordle_app/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "3790533334",
+    "contents": "",
+    "dirty": false,
+    "created": 1704751754276.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1644038448,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1644038448,
+    "read_only": false,
+    "read_only_alternatives": []
+}
